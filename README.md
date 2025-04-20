@@ -81,7 +81,7 @@
 
 ## 📚 相关链接
 
-- 🤖 Telegram Bot 地址：[https://t.me/qootcool_Bot](https://t.me/qootcool_Bot)
+- 🤖 Telegram Bot 地址：[酷搜 🔍 中文搜索机器人](https://qoot.cool/SearchRobot)
 - 🧰 资源合集导航：[查看资源合集页](https://qoot.cool/daJwig)
 - 🗂️ 项目源码与文档：即将在 GitHub 发布（敬请关注）
 
