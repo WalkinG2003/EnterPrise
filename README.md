@@ -73,7 +73,7 @@
 
 ## 🧑‍💻 联系与支持
 
-- 🤝 欢迎加入用户交流群：**【酷搜 🔍 中文搜索机器人】群主联盟**
+- 🤝 欢迎加入用户交流群：[【酷搜 🔍 中文搜索机器人】群主联盟](https://qoot.cool/BotAlliance)
 - 📬 Telegram 联系人：[点击联系管理员](https://qoot.cool/SearchRobotCustomerSupport)
 - 🛠️ 项目建议或合作欢迎提交 Issues 或 PR！
 
